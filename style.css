@@ -26,16 +26,16 @@ a{
 .buttons-container{
     display: flex;
     justify-content: space-around;
-    height: 100px;
-    width: 200px;
+    height: 50px;
+    width: 100px;
 }
 
 button{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100px;
-    width: 200px;
+    height: 50px;
+    width: 100px;
     background: white;
     border-radius: 5px;
     color: blue;
