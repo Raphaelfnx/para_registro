@@ -26,8 +26,8 @@ a{
 .buttons-container{
     display: flex;
     justify-content: space-around;
-    height: 50px;
-    width: 150px;
+    height: 100px;
+    width: 200px;
 }
 
 button{
